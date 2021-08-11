@@ -36,3 +36,7 @@ You should now be able to run `node -v` in your terminal which should output the
 $ node -v
 v14.17.4
 ```
+
+## Let's get programming!
+
+Open lesson1.js in VSCode and follow the instructions.
