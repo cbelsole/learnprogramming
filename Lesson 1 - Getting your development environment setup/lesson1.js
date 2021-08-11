@@ -6,6 +6,9 @@ In JS you can use the console to output information to the screen. To do this we
 call console.log(). When running this code with node you should see the
 information output to your terminal.
 
+📖 https://developer.mozilla.org/en-US/docs/Web/API/Console/log
+🎥 https://www.youtube.com/watch?v=CdqT7_6v60E
+
 Eg. console.log("Hello World")
 Hello World
 
@@ -34,6 +37,9 @@ To go back up a folder you use .. Eg.
 
 $ cd ..
 
-For more commands consider https://www.linuxlookup.com/beginners_guide_using_linux
+For more information:
+
+📖 https://www.linuxlookup.com/beginners_guide_using_linux
+🎥 https://youtu.be/J2zquYPJbWY
 
 */
