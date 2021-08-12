@@ -2,7 +2,13 @@
 
 # Learn Programming
 
-This repo contains the basic lessons to learn programming with JavaScript (JS) because JS is immediately useful for most people since it has applications for the [web](https://reactjs.org/), [server](https://expressjs.com/), [desktop](https://www.electronjs.org/), and [mobile](https://reactnative.dev/).
+This repo contains the basic lessons to learn programming with JavaScript (JS) because JS is immediately useful for most people since it has applications for the [web](https://reactjs.org/), [server](https://expressjs.com/), [desktop](https://www.electronjs.org/), and [mobile](https://reactnative.dev/). The aim of this tutorial is not to be a fully fleshed out resource for learning how to code. Rather, it should give you the basic high level concepts and point you towards quality resources that explain topics more in depth to help people who don't know where to start and prevent them from getting bogged down in the MOUNTAIN of tutorials out there. 
+
+This tutorial uses three emoji for resources:
+
+1. 📖 is a resource for people who absorb information from reading.
+2. 🎥 is a resource for people who absorb information from watching a video.
+3. 🎮 is a resource for people who absorb information from working with concepts.
 
 Note: This is not an exhaustive list of frameworks. If yours is not represented here it is not a slight on any particular viewpoint.
 
